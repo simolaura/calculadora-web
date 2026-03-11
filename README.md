@@ -26,7 +26,7 @@ O objetivo do projeto foi praticar conceitos fundamentais do desenvolvimento web
 
 Este projeto foi desenvolvido como prática de programação, acompanhando um tutorial do YouTube que ensina a criar uma calculadora utilizando HTML, CSS e JavaScript.
 
-Fiz algumas modificações na estilização em CSS do projeto original.
+Fiz algumas modificações na estilização em CSS e implementei a interação com o teclado pelo Javascript.
 
 Tutorial utilizado como base:
 https://surl.li/yiqrev
